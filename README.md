@@ -1,12 +1,12 @@
 # Shopping React Example
 
-This project was made using the library [React](https://reactjs.org).
+This project was made using the library <a href="https://reactjs.org" target="_blank">React</a>.
 
-It is basically a shopping application that consumes the [Fake Store API](https://fakestoreapi.com).
+It is basically a shopping application that consumes the <a href="https://fakestoreapi.com" target="_blank">Fake Store API</a>.
 
-It was used [axios](https://github.com/axios/axios) to make requests to the API.
+It was used <a href="https://github.com/axios/axios" target="_blank">axios</a> to make requests to the API.
 
-You can access it [here](https://shopping-react-example.herokuapp.com)
+You can access it <a href="https://shopping-react-example.herokuapp.com" target="_blank">here</a>.
 
 ### Desktop Version
 
